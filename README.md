@@ -1,4 +1,4 @@
-# Hello 👋 I'm SIVARANJANI-2K
+# Hello 👋 I'm SIVARANJANI
 
 A Pre-Final Year Computer Science student at MIT with a passion for web development, problem-solving, and exploring various fields in computer science. Currently involved with the Google Developers Club at MIT.
 
@@ -20,7 +20,7 @@ A Pre-Final Year Computer Science student at MIT with a passion for web developm
 
 ### Let's Connect
 
-- 📫 Email: [sivarajani@example.com](mailto:sivarajanissivakumar@example.com)
+- 📫 Email: [sivarajanissivakumar@gmail.com](mailto:sivarajanissivakumar@gmail.com)
 - 💼 LinkedIn: [Sivaranjani's LinkedIn](https://www.linkedin.com/in/sivaranjani-s-sivakumar-5b12b7253/)
 
 ---
