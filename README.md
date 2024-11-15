@@ -21,7 +21,7 @@ A Pre-Final Year Computer Science student at MIT with a passion for web developm
 ### Let's Connect
 
 - 📫 Email: [sivarajani@example.com](mailto:sivarajanissivakumar@example.com)
-- 💼 LinkedIn: [Sivaranjani's LinkedIn](https://linkedin.com/in/sivaranjani)
+- 💼 LinkedIn: [Sivaranjani's LinkedIn](https://www.linkedin.com/in/sivaranjani-s-sivakumar-5b12b7253/)
 
 ---
 
